@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Figma"
         tools:targetApi="31">
         <activity
-            android:name=".VerifyCodeOne"
+            android:name=".Home"
             android:configChanges="keyboardHidden|orientation|screenSize"
             android:exported="true">
             <intent-filter>
